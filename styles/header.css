@@ -1,0 +1,44 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.1rem 5rem;
+}
+
+.navbar__logo {
+    margin-right: 7.5rem;
+}
+
+.navbar__pagina {
+    color: var(--cinza);
+    margin-right: auto;  /* joga o menu p/ esquerda */
+}
+
+.opcoes {
+    display: flex;
+    list-style: none; /*  remove marcadores da lista */
+    gap: 2rem; /* espaço entre os links */
+    margin: 0;
+    padding: 0;
+}
+
+.opcoes__item a {
+    text-decoration: none;
+    color: var(--cinza);
+}
+
+.navbar__botao a {
+    text-decoration: none;
+}
+
+.botao__link {
+    color: var(--cinza);
+}
+
+.botao__cadastro {
+    background-color: var(--vermelho);
+    color: var(--branco);
+    border-radius: 8px;
+    padding: 0.6rem 1.1rem;
+    margin-left: 0.75rem;
+}
