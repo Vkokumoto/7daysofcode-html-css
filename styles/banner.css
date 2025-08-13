@@ -1,0 +1,25 @@
+.banner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 6rem 0;
+}
+
+.banner__about {
+    color: var(--vermelho);
+    font-weight: 600;
+}
+
+.banner__titulo {
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.banner__texto {
+    color: var(--cinza);
+    font-size: 20px;
+    font-weight: 400;
+    max-width: 800px;
+    text-align: center;
+    line-height: 1.5;
+}
