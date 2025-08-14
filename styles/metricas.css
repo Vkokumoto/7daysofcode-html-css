@@ -1,0 +1,29 @@
+.metricas__container {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    max-width: 1200px;
+    margin: 0 auto; /* centraliza o container */
+}
+
+.metricas__container > div {
+    flex: 1;
+    min-width: 200px;
+}
+
+.metricas__titulo {
+    color: var(--vermelho);
+    font-size: 60px;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+
+.metricas__subtitulo {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.metricas__texto {
+    color: var(--cinza);
+    font-weight: 400;
+}
