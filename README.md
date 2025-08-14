@@ -6,3 +6,6 @@ Desenvolvimento do header da aplicação. Contempla o logo, o menu com as págin
 
 ## Dia 2 - Primeira seção
 Coninuação do desenvolvimento da landing page. Criação da primeira seção ("banner")
+
+## Dia 3 - Seção de métricas
+Desenvovimento de 4 métricas diferentes, com um título, um subtítulo e um texto
