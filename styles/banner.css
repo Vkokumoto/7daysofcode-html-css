@@ -11,16 +11,43 @@
 }
 
 .banner__titulo {
-    font-size: 50px;
+    font-size: 55px;
     font-weight: 600;
     margin-bottom: 1.5rem;
 }
 
 .banner__texto {
     color: var(--cinza);
-    font-size: 20px;
+    font-size: 21px;
     font-weight: 400;
     max-width: 800px;
     text-align: center;
     line-height: 1.5;
+}
+
+.banner--talentos {
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+}
+
+.--destaque {
+    font-weight: 500;
+    background-color: var(--vermelho-background);
+    padding: 4px 12px;
+    border-radius: 24px;
+}
+
+h3.banner__titulo {
+    font-size: 40px;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.banner--talentos .banner__texto {
+    margin: 0;
+}
+
+.banner--talentos img {
+    max-width: 100%;
+    margin: 4rem 2rem;
 }

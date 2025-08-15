@@ -3,7 +3,7 @@
     justify-content: center;
     gap: 2rem;
     max-width: 1200px;
-    margin: 0 auto; /* centraliza o container */
+    margin: 6rem auto; /* centraliza o container */
 }
 
 .metricas__container > div {

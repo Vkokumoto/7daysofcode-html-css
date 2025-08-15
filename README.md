@@ -9,3 +9,6 @@ Coninuação do desenvolvimento da landing page. Criação da primeira seção (
 
 ## Dia 3 - Seção de métricas
 Desenvovimento de 4 métricas diferentes, com um título, um subtítulo e um texto
+
+## Dia 4 - Seção com imagem
+Desenvolvimento da seção de talentos com imagem, reaproveitando o bloco "banner" e realizando alguns ajustes particulares
