@@ -12,3 +12,6 @@ Desenvovimento de 4 métricas diferentes, com um título, um subtítulo e um tex
 
 ## Dia 4 - Seção com imagem
 Desenvolvimento da seção de talentos com imagem, reaproveitando o bloco "banner" e realizando alguns ajustes particulares
+
+## Dia 5 - Seção de vagas
+Desenvolvimento da seção de vagas

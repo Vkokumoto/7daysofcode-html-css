@@ -1,10 +1,12 @@
 @import url("./styles/header.css"); 
 @import url("./styles/banner.css"); 
 @import url("./styles/metricas.css"); 
+@import url("./styles/vagas.css"); 
 
 :root {
     --branco: #FFFFFF;
     --cinza: #667085;
+    --cinza-claro: #EAECF0;
     --vermelho: #8E2424;
     --vermelho-background: rgba(142, 36, 36, 0.05);
     --fonte: "Inter", sans-serif;

@@ -1,0 +1,32 @@
+.vagas {
+    max-width: 800px;
+    margin: 6rem auto;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.vagas__area {
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+
+.vagas__info {
+    display: flex;
+    flex-direction: column;
+    padding: 1.5rem;
+    gap: 24px;
+    border: 1px solid var(--cinza-claro);
+    border-radius: 16px;
+}
+
+.vagas-titulo {
+    font-size: 18px;
+}
+
+.informacoes {
+    display: flex;
+    gap: 24px;
+    color: var(--cinza);
+}
