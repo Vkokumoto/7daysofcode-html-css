@@ -15,3 +15,6 @@ Desenvolvimento da seção de talentos com imagem, reaproveitando o bloco "banne
 
 ## Dia 5 - Seção de vagas
 Desenvolvimento da seção de vagas
+
+## Dia 6 - Seção de depoimentos
+Desenvolvimento da seção de depoimentos. Contempla texto e imagem
