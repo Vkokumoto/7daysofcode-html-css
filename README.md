@@ -18,3 +18,6 @@ Desenvolvimento da seção de vagas
 
 ## Dia 6 - Seção de depoimentos
 Desenvolvimento da seção de depoimentos. Contempla texto e imagem
+
+## Dia 7 - Rodapé
+Desenvolvimento da seção footer. Contempla título, texto, input de email e botão de cadastro. Finalização do projeto

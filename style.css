@@ -3,11 +3,14 @@
 @import url("./styles/metricas.css"); 
 @import url("./styles/vagas.css"); 
 @import url("./styles/depoimento.css"); 
+@import url("./styles/rodape.css"); 
 
 :root {
     --branco: #FFFFFF;
     --cinza: #667085;
     --cinza-claro: #EAECF0;
+    --cinza-footer: #98A2B3;
+    --cinza-background: #F9FAFB;
     --vermelho: #8E2424;
     --vermelho-background: rgba(142, 36, 36, 0.05);
     --fonte: "Inter", sans-serif;
