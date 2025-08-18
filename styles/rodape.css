@@ -1,0 +1,54 @@
+.rodape {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: var(--cinza-background);
+    padding: 6rem 19rem;
+}
+
+.rodape__titulo {
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.rodape__texto {
+    color: var(--cinza);
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.rodape__input {
+    display: flex;
+    margin-top: 2.5rem;
+    margin-bottom: 2rem;
+}
+
+.input-email {
+    background-color: var(--branco);
+    border: 1px solid var(--cinza-claro);
+    border-radius: 8px;
+    padding: 1rem 0.75rem;
+    width: 23rem;
+}
+
+.input-email::placeholder {
+    color: var(--cinza);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.rodape__input {
+    font-weight: 400;
+}
+
+.rodape__input .botao__cadastro {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.rodape__copyright {
+    color: var(--cinza-footer);
+    font-size: 16px;
+    font-weight: 400;
+}
